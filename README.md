@@ -13,7 +13,6 @@
 - [DATA CLEANING AND DATA PREPARATION](#data-cleaning-and-data-preparation)
 - [VISUALIZATIONS AND INSIGHTS](#visualizations-and-insights)
 - [RESULTS](#results)
-- [RECOMMENDATIONS](#recommendations)
 - [CONCLUSION](#conclusion)
   
 ### INTRODUCTION
@@ -80,9 +79,13 @@ After loading the dataset, the following steps were taken during the cleaning pr
 - From 1930 to the 1950s, World Cup matches saw increasing goals, peaking in the 1950s. A sharp decline followed, with goals stabilizing around 2.5-3.5 per match from the 1970s onward, reflecting evolving tactics and balanced play styles
 - Brazil had the highest number of total goals.
   
+  ![Screenshot (504)](https://github.com/user-attachments/assets/05797174-2bc5-4906-ba1a-09751887f2a0)
+
   
  ### CONCLUSION
 
 - The chart provides a clear visualization of how the total goals per World Cup year have evolved over time, reflecting the changing dynamics of the tournament. The peaks suggest years with particularly high-scoring matches, while the overall trend indicates growth in the number of goals scored as the World Cup expanded and evolved.
 - The data suggests that the FIFA World Cup saw a high-scoring period in the early tournaments, with a peak in the 1950s. However, the average goals per match decreased and stabilized in later years, indicating possible changes in tactics, defensive strategies, or the increasing competitiveness of teams.
+
+### **Thank you for your effort in assessing this project.**
   
